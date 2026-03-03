@@ -3,7 +3,7 @@ $admin_name=$_POST["admin_name"];
 $admin_password=$_POST["password"];
 
 
-if($admin_name ==" " && $admin_password == " ")
+if($admin_name =="Hasnat" && $admin_password == "Hasnat")
 {
     echo '<script> 
     window.location="../pages/adminpanel.php";
