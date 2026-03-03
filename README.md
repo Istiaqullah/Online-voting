@@ -1,6 +1,13 @@
 # Voting System
 Develop a simple online voting system using PHP, HTML, CSS, and JavaScript, with MySQL as the database.
 
+## Group Member
+
+- Abul Hasnat Mohammad Istiaqullah
+- Md. Nafij Hejaji
+- Asadullah Ibn Ferdows
+- Shariful Islam Labib
+
 ## Overview
 The PHP Voting System provides a platform where users can log in, view available elections, and cast their votes securely.
 
@@ -15,9 +22,4 @@ The PHP Voting System provides a platform where users can log in, view available
 for voters and candidates you can get the login details from sql file and password will be hashed , so the default password is 
 '1234' and Admin name & password is 'Hasnat'
 
-## Group Member
 
-- Abul Hasnat Mohammad Istiaqullah
-- Md. Nafij Hejaji
-- Asadullah Ibn Ferdows
-- Shariful Islam Labib
